@@ -19,5 +19,11 @@ object CustomToast {
 
         toast.duration = Toast.LENGTH_LONG
         toast.show()
+
+        //para jogar a biblioteca na net/git
+        //https://mayojava.github.io/android/library/creating-and-distributing-your-own-android-library/
+
+        //infiniteScrollLibrary
+        //https://github.com/heiderlopes/InfiniteScrollLibrary
     }
 }
